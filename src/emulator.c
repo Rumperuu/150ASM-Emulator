@@ -20,7 +20,7 @@
  *                                                                          
  * @section DESCRIPTION                                                     
  *                                                                          
- * This program emulates programs written in the SCC.150 Assembler language.
+ * This program emulates programs written in the 150 Assembler language.
  * The language is a very simple assembly language that comprises of only ten
  * opcodes:                                                                 
  *                                                                          
